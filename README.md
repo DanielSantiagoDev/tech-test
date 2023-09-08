@@ -1,3 +1,9 @@
+#How to run
+1) Clone this repository
+2) Have node installed
+3) run "npm i" and then "npm run start"
+4) Visit http://localhost:3000 on your browser
+
 An investor may receive a refund on their investment into a fund based on specific time limits, which vary depending on whether the requester had signed up to the old or new Terms of Service (TOS) and whether the reversal request was submitted via the phone or on the web-app.
 
 | Request Type | Approval time limit for old TOS | Approval time limit for new TOS |
